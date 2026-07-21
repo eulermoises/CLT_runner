@@ -1,1 +1,2 @@
-y = 0;
+inicio = 0
+y = inicio;
