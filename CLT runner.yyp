@@ -22,9 +22,11 @@
   },
   "name":"CLT runner",
   "resources":[
+    {"id":{"name":"Obj_boneco","path":"objects/Obj_boneco/Obj_boneco.yy",},},
     {"id":{"name":"Obj_rua","path":"objects/Obj_rua/Obj_rua.yy",},},
     {"id":{"name":"Obj_rua2","path":"objects/Obj_rua2/Obj_rua2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Arte_boneco","path":"sprites/Arte_boneco/Arte_boneco.yy",},},
     {"id":{"name":"Arte_rua","path":"sprites/Arte_rua/Arte_rua.yy",},},
   ],
   "resourceType":"GMProject",
