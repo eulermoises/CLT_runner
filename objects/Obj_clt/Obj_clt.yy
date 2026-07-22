@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_boneco",
+  "%Name":"Obj_clt",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":39,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_boneco","path":"objects/Obj_boneco/Obj_boneco.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_boneco",
+  "name":"Obj_clt",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Arte_boneco",
-    "path":"sprites/Arte_boneco/Arte_boneco.yy",
+    "name":"Arte_clt",
+    "path":"sprites/Arte_clt/Arte_clt.yy",
   },
   "spriteMaskId":null,
   "visible":true,

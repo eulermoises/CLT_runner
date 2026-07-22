@@ -1,0 +1,1 @@
+inicio_clt_y = - 32;

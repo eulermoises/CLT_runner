@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_boneco",
+  "%Name":"Obj_coxa",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":39,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_boneco","path":"objects/Obj_boneco/Obj_boneco.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_boneco",
+  "name":"Obj_coxa",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -30,10 +30,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"Arte_boneco",
-    "path":"sprites/Arte_boneco/Arte_boneco.yy",
+    "name":"Arte_coxa",
+    "path":"sprites/Arte_coxa/Arte_coxa.yy",
   },
   "spriteMaskId":null,
   "visible":true,
