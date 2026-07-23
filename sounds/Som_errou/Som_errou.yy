@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"Som_pegou",
+  "%Name":"Som_errou",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.14002268,
+  "duration":1.0511111,
   "exportDir":"",
-  "name":"Som_pegou",
+  "name":"Som_errou",
   "parent":{
     "name":"Sons",
     "path":"folders/Sons.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Som_pegou.wav",
+  "soundFile":"Som_errou.wav",
   "volume":1.0,
 }
