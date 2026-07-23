@@ -1,2 +1,2 @@
-inicio_x = 28;
-inicio_y = 272;
+inicio_x = 56;
+inicio_y = 544;

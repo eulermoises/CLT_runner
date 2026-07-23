@@ -1,3 +1,3 @@
-y += 1;
+y += 2;
 
-if (y >= 320) y = inicio;
+if (y >= 640) y = inicio;

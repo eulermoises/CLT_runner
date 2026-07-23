@@ -1,1 +1,1 @@
-inicio_clt_y = - 32;
+inicio_clt_y = - 64;

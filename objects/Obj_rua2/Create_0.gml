@@ -1,2 +1,2 @@
-inicio = -320;
+inicio = -640;
 y = inicio;
